@@ -1,0 +1,22 @@
+body {
+	background-color: ;
+	height: 300vh;
+	justify-content: center;
+	align-items: center;
+	background-color: #87CEFA;
+}
+
+    .text {
+    	height: 100vh;
+		direction: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+		text-align: center;
+		display: flex;
+		border-radius: 5px;
+		border: 5px solid yellow;
+		padding: 5em;
+
+    }
+
